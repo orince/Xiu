@@ -2,9 +2,9 @@
 Author: Naixin && naixinguo2-c@my.cityu.edu.hk
 Date: 2022-10-05 18:29:47
 LastEditors: Naixin && naixinguo2-c@my.cityu.edu.hk
-LastEditTime: 2022-10-31 10:03:01
+LastEditTime: 2022-10-31 12:00:56
 FilePath: /Gtext/xiu/main.py
-Description: 
+Description: xiu
 
 '''
 from struct import pack_into
