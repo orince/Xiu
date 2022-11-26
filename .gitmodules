@@ -1,0 +1,3 @@
+[submodule "Fan"]
+	path = Fan
+	url = https://github.com/orince/Fan.git
